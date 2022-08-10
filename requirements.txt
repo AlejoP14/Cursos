@@ -1,0 +1,6 @@
+cryptography==37.0.4 
+Django==4.0.5  
+django-ckeditor==6.4.2
+Pillow==9.1.1
+pip==22.1.2
+PyMySQL==1.0.2
